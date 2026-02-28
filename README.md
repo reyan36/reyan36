@@ -9,7 +9,7 @@ I enjoy going to hackathons and working with people from different places. <br>
 Sharing ideas, building together, and giving my best effort is something I really like.
 
 I write articles on various topics and really enjoy participating in competitive programming competitions. <br>
-I am learning Graphics Programming, I really like it and I think learning it will be worthwile.
+I am learning Graphics Programming, I really like it and I think learning it will be worthwhile.
 
 
 ## Tools & Tech
