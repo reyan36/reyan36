@@ -5,10 +5,10 @@ I’m a computer science student.
 I like building small projects that solve problems I face in my daily life.  
 It helps me stay close to computers and makes learning more fun.
 
-I enjoy going to hackathons and working with people from different places.
+I enjoy going to hackathons and working with people from different places. <br>
 Sharing ideas, building together, and giving my best effort is something I really like.
 
-I write articles on various topics and really enjoy participating in competitive programming competitions.
+I write articles on various topics and really enjoy participating in competitive programming competitions. <br>
 I am learning Graphics Programming, I really like it and I think learning it will be worthwile.
 
 
